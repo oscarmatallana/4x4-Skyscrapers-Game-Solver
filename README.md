@@ -22,4 +22,4 @@ This project explores:
 - algorithmic thinking
 - clean and structured implementation in C
 
-At first glance the puzzle looks simple — until the grid starts fighting back 😄
+At first glance the puzzle looks simple...until the grid starts fighting back 😄
